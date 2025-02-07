@@ -1,5 +1,11 @@
 # 😊 AI Emotion IIMA2
 
+## Authors
+
+- **Nathan Boisleux** (Noootzzz)
+- **Noa Obringer** (17Sx)
+- **Julien Menet** (JulienMnt)
+
 Welcome to the AI Emotion IIMA2 repository! This project aims to develop an AI model that can detect and analyze human emotions from various inputs. It's just a training exercise with ml5.js.
 
 ## 📘 Introduction
