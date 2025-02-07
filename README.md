@@ -28,7 +28,3 @@ To get started with the AI Emotion IIMA2 project, follow these steps:
     ```bash
     cd AI_Emotion_IIMA2
     ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
